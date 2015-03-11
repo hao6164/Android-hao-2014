@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hao_android_class1</string>
+    <string name="hello_world">开启你的世界</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
